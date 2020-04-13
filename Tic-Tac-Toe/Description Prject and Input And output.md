@@ -1,4 +1,5 @@
 Description
+You need to read this in RAW Mode
 Now it is time to make a working game!
 
 In the last stage, make it so you can play a full game with a friend. First one of you moves as X, and then the other one moves as O.
