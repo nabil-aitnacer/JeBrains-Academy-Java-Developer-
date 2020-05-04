@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlashCards/FlashCards.iml" filepath="$PROJECT_DIR$/FlashCards/FlashCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JetBrain Academy - Java Developer.iml" filepath="$PROJECT_DIR$/.idea/JetBrain Academy - Java Developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/Tic-Tac-Toe/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/virtual coffee/virtual coffee.iml" filepath="$PROJECT_DIR$/virtual coffee/virtual coffee.iml" />
+    </modules>
+  </component>
+</project>
